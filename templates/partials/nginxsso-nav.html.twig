@@ -1,0 +1,7 @@
+{% if config.plugins.nginxsso.auth_link.enabled %}
+    <li>
+        <a href="{{ config.plugins.nginxsso.auth_link.slug }}">
+            {{ config.plugins.nginxsso.auth_link.label | default('Login') }}
+        </a>
+    </li>
+{% endif %}

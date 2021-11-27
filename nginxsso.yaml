@@ -1,0 +1,5 @@
+enabled: true
+auth_link:
+    enabled: true
+    slug: https://api.timelegend.net
+    label: Login

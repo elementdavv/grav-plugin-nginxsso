@@ -1,0 +1,13 @@
+name: NginxSso
+type: plugin
+version: 1.0.0
+description: "Adds NginxSSO integration support."
+icon: lock
+slug: nginxsso
+author:
+  name: elementdavv
+  email: vinctai@gmail.com
+  url: https://timelegend.net
+homepage: https://github.com/elementdavv/grav-plugin-nginxsso
+keywords: grav, nginx, sso
+license: MIT
